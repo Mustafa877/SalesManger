@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\backup_________________1\mybackup\ftp server\steup\|ftp://192.168.2.106/|ftp://192.168.2.102/|ftp://192.168.2.105/|ftp://192.168.2.103/</PublishUrlHistory>
+    <InstallUrlHistory>http://localhost:8080/|http://localhost/MySystem/</InstallUrlHistory>
+    <SupportUrlHistory>https://mustafa-haddad.netlify.app/</SupportUrlHistory>
+    <UpdateUrlHistory>http://localhost/نظام ميم لمبيعات/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://mustafa-haddad.netlify.app/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <StartAction>Project</StartAction>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+</Project>
